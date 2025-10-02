@@ -1,6 +1,14 @@
 ""DRAFT"" Currently works but would like to add more features
 
-K-Nearest Neighbors
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import KNeighborsClassifier # or KNeighborsRegressor for regression
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+
+
+
+# K-Nearest Neighbors (Euclidean)
 
 # Load training data
 train_df = pd.read_csv('train.csv')
