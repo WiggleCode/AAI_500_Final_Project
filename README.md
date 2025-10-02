@@ -8,6 +8,6 @@ Descriptive Analysis:
 - Churn Rate Histogram - Obinna
 
 In Model's used: 
-Gradient Boosting - Jeff
-K-Nearest Neighbors (Euclidean) - Jeff
-Random Forest - Nicholson
+- Gradient Boosting - Jeff
+- K-Nearest Neighbors (Euclidean) - Jeff
+- Random Forest - Nicholson
