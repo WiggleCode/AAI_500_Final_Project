@@ -8,6 +8,7 @@ Descriptive Analysis:
 - Churn Rate Histogram - Obinna
 
 In Model's used: 
-- Gradient Boosting - Jeff
+- Gradient Boosted Models - Jeff
 - K-Nearest Neighbors (Euclidean) - Jeff
+- Correlation Heatmap - Jeff
 - Random Forest - Nicholson
