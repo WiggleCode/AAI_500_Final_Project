@@ -11,4 +11,5 @@ In Model's used:
 - Gradient Boosted Models - Jeff
 - K-Nearest Neighbors (Euclidean) - Jeff
 - Correlation Heatmap - Jeff
+- Pearson's Correlation Coefficients - Jeff
 - Random Forest - Nicholson
