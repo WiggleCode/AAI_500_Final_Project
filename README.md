@@ -13,3 +13,7 @@ In Model's used:
 - Correlation Heatmap - Jeff
 - Pearson's Correlation Coefficients - Jeff
 - Random Forest - Nicholson
+- Naive Bayes - Nicholson
+- Decision Tree - Nicholson
+- Logistical Regression - Nicholson
+- Generated Feature Importance - Nicholson
